@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://beilifor.github.io/tags/index.html</loc>
+    <loc>https://beilifor.github.io/contact/index.html</loc>
     
-    <lastmod>2020-08-01T13:51:06.456Z</lastmod>
+    <lastmod>2020-08-01T23:42:21.737Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://beilifor.github.io/about/index.html</loc>
+    
+    <lastmod>2020-08-01T23:40:37.486Z</lastmod>
     
   </url>
   
@@ -16,9 +23,9 @@
   </url>
   
   <url>
-    <loc>https://beilifor.github.io/contact/index.html</loc>
+    <loc>https://beilifor.github.io/tags/index.html</loc>
     
-    <lastmod>2020-08-01T13:51:06.455Z</lastmod>
+    <lastmod>2020-08-01T13:51:06.456Z</lastmod>
     
   </url>
   
@@ -33,13 +40,6 @@
     <loc>https://beilifor.github.io/archives/index.html</loc>
     
     <lastmod>2020-08-01T13:51:06.452Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://beilifor.github.io/about/index.html</loc>
-    
-    <lastmod>2020-08-01T13:51:06.451Z</lastmod>
     
   </url>
   
