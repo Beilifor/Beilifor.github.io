@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://beilifor.github.io/friends/index.html</loc>
+    
+    <lastmod>2020-08-01T23:47:18.971Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://beilifor.github.io/contact/index.html</loc>
     
     <lastmod>2020-08-01T23:42:21.737Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>https://beilifor.github.io/about/index.html</loc>
     
     <lastmod>2020-08-01T23:40:37.486Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://beilifor.github.io/friends/index.html</loc>
-    
-    <lastmod>2020-08-01T13:51:06.456Z</lastmod>
     
   </url>
   
